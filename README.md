@@ -1,16 +1,54 @@
-## Hi there 👋
+# Olá, eu sou Vanessa 👋
 
-<!--
-**vansconv76/vansconv76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou construindo uma nova trajetória profissional voltada à criação de soluções de atendimento, vendas e automação com Inteligência Artificial.
 
-Here are some ideas to get you started:
+Meu objetivo é desenvolver ferramentas que ajudem empresas a:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* organizar seus processos comerciais;
+* melhorar o atendimento ao cliente;
+* reduzir o tempo de resposta;
+* qualificar oportunidades;
+* realizar follow-ups;
+* explicar melhor seus produtos e serviços;
+* utilizar a Inteligência Artificial de maneira humana, ética e prática.
+
+## Projetos em desenvolvimento
+
+### Meus Skills Premium
+
+Pacote de skills comerciais para atendimento, qualificação de leads, vendas e acompanhamento de clientes.
+
+Inclui estruturas para:
+
+* atendimento universal;
+* clínicas;
+* Instagram;
+* WhatsApp;
+* diagnóstico comercial;
+* propostas e pitches.
+
+### Instagram Sales Skill
+
+Skill direcionada à organização de conversas comerciais e vendas iniciadas pelo Instagram.
+
+## Atualmente estou estudando
+
+* Inteligência Artificial;
+* criação de agentes;
+* engenharia de prompts;
+* automações com n8n e Make;
+* ChatGPT e modelos de linguagem;
+* GitHub;
+* atendimento comercial com IA;
+* documentação de soluções;
+* aplicações de IA para empresas.
+
+## Minha visão
+
+Acredito que a tecnologia deve ajudar pessoas e empresas a trabalharem com mais clareza, organização e propósito.
+
+Meu foco não é apenas criar respostas automáticas, mas desenvolver sistemas que preservem o atendimento humano e ajudem empresas a compreenderem melhor seus clientes.
+
+## Portfólio
+
+Acompanhe meus repositórios para conhecer a evolução dos projetos, estudos, testes e soluções desenvolvidas com Inteligência Artificial.
